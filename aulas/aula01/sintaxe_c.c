@@ -24,8 +24,8 @@
     // leitura
     int primeiro_numero;
     int segundo_numero;
-    primeiro_numero = 706461;
-    segundo_numero = 937570;
+    primeiro_numero = 1234567891;
+    segundo_numero = 1234567891;
     
     //2. processamento
     // calculo soma, subtraçao, multiplicaçao, divisao
